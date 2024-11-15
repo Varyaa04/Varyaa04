@@ -8,14 +8,19 @@
 
 ### Programming Languages
 **Proficient:**
+<p>
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=cs,html,css,php"/>
 </a>
+</p>
 
 **Familiar:**
+<p>
 <a href="https://skillicons.dev" target="_blank">
   <img src="https://skillicons.dev/icons?i=java,kotlin,cpp"/>
-</a>
+</a>  
+</p>
+
 
 ### Frameworks & Technologies
 - **Backend Development:**
