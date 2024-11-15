@@ -1,23 +1,21 @@
-# Hi, I'm Varya 🌸*: .｡. o(≧▽≦)o .｡.:*☆🌸
-🌍 I am a software developer with a passion for building dynamic applications and innovative solutions.
+# *Hi, I'm Varya 🌸: .｡. o(≧▽≦)o .｡.:☆🌸*
+
+🌍 I am pleased to introduce myself: I am a final year college student majoring in programming, originally from the great city of St. Petersburg. My passion is creating applications and innovative solutions.
+
+---
 
 ## 💻 Skills
 
 ### Programming Languages
-- **Proficient:** 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,dotnet,php" />
-  </a>
-</p>
+**Proficient:**
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,php"/>
+</a>
 
-- **Familiar:** 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,cpp" />
-  </a>
-</p>
-
+**Familiar:**
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp"/>
+</a>
 
 ### Frameworks & Technologies
 - **Backend Development:**
@@ -30,9 +28,18 @@
   - MySQL
   - PostgreSQL
 
+### 🖥️ Operating Systems
+<a href="https://skillicons.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=windows,linux"/>
+</a>
+
+---
+
 ## 📫 How to reach me
-• 📧 Email: [fedorova04_varya@mail.ru](mailto:fedorova04varya@mail.ru)  
-• ![TelegramGIF](https://github.com/user-attachments/assets/6d2ddfa6-2185-4915-a68c-e4cdf5d0c710) Telegram: [@varyaa_04](t.me/varyaa_04)  
+- 📧 **Email:** [fedorova04_varya@mail.ru](mailto:fedorova04_varya@mail.ru)  
+- 📱 **Telegram:** [@varyaa_04](https://t.me/varyaa_04)
+
+---
 
 ## 🔧 Tools & Technologies
 - Git & GitHub
@@ -40,8 +47,11 @@
 - Docker
 - Visual Studio Code
 
+---
+
 ## 🌟 Fun fact
-I like to experiment with new technologies and contribute to projects. In my free time I like to watch movies, educational videos about the world and paint by numbers :-)
+I love experimenting with new technologies and contributing to projects. In my free time, I enjoy watching movies, exploring educational videos, and painting by numbers! :-)
+
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to collaborate on a project or just want to chat. 🥳
