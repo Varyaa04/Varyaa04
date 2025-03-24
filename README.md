@@ -17,7 +17,7 @@
 **Familiar:**
 <p>
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,flutter"/>
 </a>  
 </p>
 
