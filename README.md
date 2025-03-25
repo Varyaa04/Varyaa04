@@ -17,7 +17,7 @@
 **Familiar:**
 <p>
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,flutter"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,dart"/>
 </a>  
 </p>
 
@@ -27,6 +27,7 @@
   - .NET
   - WPF
   - ASP.NET
+  - Flutter
 
 - **Databases:**
   - MSSQL 
